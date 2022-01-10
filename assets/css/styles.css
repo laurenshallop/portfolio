@@ -213,6 +213,7 @@ header {
 
 .about-me {
     background: var(--clr-dark);
+    color: var(--clr-light);
 }
 
 /* my work */
